@@ -7,4 +7,6 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
 	site: 'https://example.com',
 	integrations: [mdx(), sitemap()],
+	site: 'https://castelll0009.github.io',
+	base: '/CAD-DN',
 });
